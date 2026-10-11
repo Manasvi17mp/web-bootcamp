@@ -1,0 +1,33 @@
+/* h1{
+    color: aquamarine;
+    background-color: blueviolet;
+} */
+ 
+*{
+    margin: 40px;
+    padding: 0;
+    font-family: Arial;
+    color: rgb(245, 16, 150);
+}
+
+/* Id selector */
+#main-haider{
+    background-color: rgb(2, 23, 53);
+    text-align: center;
+}
+
+/* Class Selector */
+.student{
+    color: rgb(166, 231, 13);
+    border: 2px dashed;
+    border-radius: 20px;
+}
+
+.student p{
+    background-color: rgb(37, 3, 18);
+}
+
+div{
+    display: flex;
+}
+
